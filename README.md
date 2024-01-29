@@ -34,6 +34,3 @@ By the end of this exercise, you should be able to:
 
 To get started, clone the repository to your local machine:
 
-```bash
-git clone https://github.com/Tomtwiny121/your-repo.git
-cd your-repo
